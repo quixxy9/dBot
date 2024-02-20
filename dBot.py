@@ -43,3 +43,5 @@ print('хуй пизда')
 
 token = open('token.txt').readline
 bot.run(token)
+
+print('пизда')
