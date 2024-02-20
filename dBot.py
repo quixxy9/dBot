@@ -39,3 +39,8 @@ async def on_message(message):
 
 
 bot.run('MTIwODEzNDQ2MTU1NzA1MTQwMg.G5mlif.J4GO2sdKYcoibTl-mFf6iUqlX359UrFCirKesw')
+
+
+
+
+# anrei SASAT
