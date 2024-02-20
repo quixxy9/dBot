@@ -38,7 +38,5 @@ async def on_message(message):
             await message.channel.send(f'{message.author.mention} сообщение было удалено по причине употребления запрещённого слова')
 
 
-bot.run('MTIwODEzNDQ2MTU1NzA1MTQwMg.G5mlif.J4GO2sdKYcoibTl-mFf6iUqlX359UrFCirKesw')
-
-
-#    ;lifujhnga;eirlgbhnsaiop;jnbh;paioudnlg   enO
+token = open('token.txt').readline
+bot.run(token)
