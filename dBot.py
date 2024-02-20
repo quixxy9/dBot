@@ -1,9 +1,11 @@
 import disnake
 from disnake.ext import commands
 
-bot = commands.Bot(command_prefix='d/', help_command=None, intents=disnake.Intents.all())
+bot = commands.Bot(command_prefix='/', help_command=None, intents=disnake.Intents.all())
 # bot.remove_command('help')
-censore = open()
+censore = [
+    'сука', 'блять', 'пизда', 'хуй',
+    ]
 
 
 # запуск по готовности
